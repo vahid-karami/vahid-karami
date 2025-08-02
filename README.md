@@ -1,4 +1,4 @@
-# Hi there 👋, I’m [Your Name]
+# Hi there 👋, I’m Vahid
 **Data Scientist** | Machine Learning | Python | SQL | NLP | 📊
 
 - 🚀 Passionate about designing and deploying data-driven solutions.
