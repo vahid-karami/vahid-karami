@@ -29,10 +29,3 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vahidkarami/)
 - 🌍 Location: Tehran, Iran 
 
----
-
-**Fun facts**:  
-- I’ve been coding nightly since 2021 (check my GitHub streaks)  
-- I love turning visual art into data stories 🎨📈
-
-
