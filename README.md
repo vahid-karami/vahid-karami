@@ -8,6 +8,8 @@
 | Project | Description | Key Tools |
 |--------|-------------|------------|
 |Rahpoo Portal|hr.rahpoo|Django|
+|Social|personal|Django|
+
 
 
 ## 📊 GitHub Stats
