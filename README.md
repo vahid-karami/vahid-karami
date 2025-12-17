@@ -23,7 +23,7 @@
 - **DevOps & Visualization**:
 
 ## 🌱 Growth & Community
-- 📚 Currently improving query writing skills
+- 📚 Currently improving query writing skills and develop real django projects.
 - 🤝 Active contributor to open source projects and [Data Science Portfolio Repos]  
 
 
